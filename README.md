@@ -45,7 +45,7 @@ modules: [
 ## Install...
 ```
 cd ~/MagicMirror/modules
-git clone https://github.com/justjim1220/MMM-NewsFeedTicker.git
+git clone https://github.com/paleaura01/MMM-NewsFeedTicker.git
 ```
 
 ## Other Info...
